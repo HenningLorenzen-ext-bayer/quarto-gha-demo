@@ -64,6 +64,8 @@
 				"editor.rulers": [80],
 				"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
 				"editor.fontLigatures": true,
+				"git.verboseCommit": true,
+				"git.autofetch": true,
 				"r.rterm.linux": "/usr/local/bin/radian",
 				"r.bracketedPaste": true,
 				"r.plot.useHttpgd": true
