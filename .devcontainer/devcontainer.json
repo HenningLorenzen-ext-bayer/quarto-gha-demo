@@ -30,6 +30,9 @@
 			"packages": "",
 			"pakVersion": "auto",
 			"additionalRepositories": ""
+		},
+		"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
+			"packages": "bash-completion"
 		}
 	},
 	"overrideFeatureInstallOrder": [
