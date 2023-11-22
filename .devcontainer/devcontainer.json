@@ -32,7 +32,7 @@
 			"additionalRepositories": ""
 		},
 		"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
-			"packages": "bash-completion,fonts-firacode"
+			"packages": "bash-completion,fonts-firacode,r-cran-startup"
 		}
 	},
 	"overrideFeatureInstallOrder": [
