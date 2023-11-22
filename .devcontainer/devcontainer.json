@@ -61,6 +61,7 @@
 				"marvhen.reflow-markdown",
 			],
 			"settings": {
+				"editor.rulers": [80],
 				"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
 				"editor.fontLigatures": true,
 				"r.rterm.linux": "/usr/local/bin/radian",
