@@ -23,7 +23,6 @@
 			"version": "latest"
 		},
 		"ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {
-			"installTinyTex": true,
 			"version": "latest"
 		},
 		"ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
