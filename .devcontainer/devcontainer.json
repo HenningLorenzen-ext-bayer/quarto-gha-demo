@@ -32,7 +32,7 @@
 			"additionalRepositories": ""
 		},
 		"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
-			"packages": "bash-completion"
+			"packages": "bash-completion,fonts-firacode"
 		}
 	},
 	"overrideFeatureInstallOrder": [
@@ -59,6 +59,8 @@
 				"ms-azuretools.vscode-docker"
 			],
 			"settings": {
+				"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+				"editor.fontLigatures": true,
 				"r.rterm.linux": "/usr/local/bin/radian",
 				"r.bracketedPaste": true,
 				"r.plot.useHttpgd": true
