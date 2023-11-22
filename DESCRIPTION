@@ -1,5 +1,3 @@
-Package: quarto-gha-demo
-Version: 0.0.0.9000
 Encoding: UTF-8
 Imports: 
     knitr,
