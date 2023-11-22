@@ -67,6 +67,7 @@
 				"git.verboseCommit": true,
 				"git.autofetch": true,
 				"r.rterm.linux": "/usr/local/bin/radian",
+				"terminal.integrated.defaultProfile.linux": "R Terminal",
 				"r.bracketedPaste": true,
 				"r.plot.useHttpgd": true
 			}
