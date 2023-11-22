@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-
 /.quarto/
+# ignore local renditions of quarto-gha-demo.qmd
+quarto-gha-demo.html
+quarto-gha-demo_files
