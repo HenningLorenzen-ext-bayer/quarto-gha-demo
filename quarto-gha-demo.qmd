@@ -24,3 +24,10 @@ usethis::use_github()
     
 -   As next step, I ran `quarto publish gh-pages` once as recommended.
     This sets up GH pages as needed.
+
+Next, I learned to:
+
+-   Customize the `quarto-publish-example.yml` workflow.
+
+-   Track R package dependencies in a `DESCRIPTION` file, which can also be used
+    outside the context of R *packages* ({usethis} is your friend).
