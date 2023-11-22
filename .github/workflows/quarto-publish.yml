@@ -39,12 +39,8 @@ jobs:
 
       - name: Setup R dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
-        # with:
-        #   packages:
-        #     any::knitr
-        #     any::rmarkdown
-        #     any::downlit
-        #     any::xml2
+        # for this project we will use a DESCRIPTION file to track package
+        # dependencies
 
       # From https://github.com/julia-actions/setup-julia
       # - name: Setup Julia
